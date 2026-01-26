@@ -19,15 +19,6 @@ The model is designed to be lightweight while achieving good classification perf
 
 ---
 
-## 📂 Project Structure
-CNN_Model_FashionMNIST/
-│
-├── README.md
-├── pytorch_computer_vision.ipynb
-
-
-- `pytorch_computer_vision.ipynb`: Jupyter Notebook containing the complete implementation including training and evaluation.
-
 ---
 
 ## 🗂 Dataset
